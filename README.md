@@ -1,6 +1,6 @@
 # VoxelTeleporter2
 
-This effect is based on Keijiro's work => https://github.com/keijiro/TestbedHDRP  
+This effect is based on Keijiro's work. See Transporter in the repo => https://github.com/keijiro/TestbedHDRP  
 
 #Unity 2018.4.1f1
 #geometry shader
